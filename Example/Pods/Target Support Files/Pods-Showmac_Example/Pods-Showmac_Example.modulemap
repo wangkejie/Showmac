@@ -1,0 +1,6 @@
+framework module Pods_Showmac_Example {
+  umbrella header "Pods-Showmac_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

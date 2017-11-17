@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Showmac_Example' do
+  pod 'Showmac', :path => '../'
+
+  target 'Showmac_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module Showmac {
+  umbrella header "Showmac.h"
+
+  export *
+  module * { export * }
+}
